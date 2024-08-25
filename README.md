@@ -46,7 +46,7 @@
 ## 自行编译
 
 ```
-git clone https://github.com/gngpp/luci-theme-design.git  package/luci-theme-design
+git clone https://github.com/kenzok78/luci-theme-design.git  package/luci-theme-design
 make menuconfig # choose LUCI->Theme->Luci-theme-design  
 make V=s
 ```
